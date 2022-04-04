@@ -1,0 +1,5 @@
+/.idea/
+/base-project.iml
+/base-project-web/target/
+/base-project-api/target/
+/base-project-service/target/
